@@ -2,12 +2,6 @@
   --blue: #00acdc;
 }
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body {
   margin: 0;
   background-color: #838383;
